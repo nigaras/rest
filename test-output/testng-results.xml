@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1706" started-at="2017-09-03T16:50:45Z" finished-at="2017-09-03T16:50:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1706" started-at="2017-09-03T16:50:45Z" finished-at="2017-09-03T16:50:47Z">
+      <class name="rest.webapi.laptopbag.get.Task">
+        <test-method status="PASS" signature="JsonPathSamples()[pri:0, instance:rest.webapi.laptopbag.get.Task@643b1d11]" name="JsonPathSamples" duration-ms="1554" started-at="2017-09-03T12:50:45Z" finished-at="2017-09-03T12:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JsonPathSamples -->
+        <test-method status="PASS" signature="XmlPathSamples()[pri:0, instance:rest.webapi.laptopbag.get.Task@643b1d11]" name="XmlPathSamples" duration-ms="124" started-at="2017-09-03T12:50:47Z" finished-at="2017-09-03T12:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XmlPathSamples -->
+      </class> <!-- rest.webapi.laptopbag.get.Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
